@@ -5,7 +5,7 @@
 ## My hard skills 
 
 <img alt="Csharp" src="https://img.shields.io/badge/-C%23-7022DC?style=flat-square&logo=c-sharp&logoColor=white" />
-<img alt="DotNetCore" src="https://img.shields.io/badge/-C%23-7022DC?style=flat-square&logo=dot-net&logoColor=white" />
+<img alt="DotNetCore" src="https://img.shields.io/badge/-.NET-7022DC?style=flat-square&logo=dot-net&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-e0c050?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white" />
