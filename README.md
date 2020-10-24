@@ -10,8 +10,12 @@
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white" />
 <img alt="Express" src="https://img.shields.io/badge/-Express-1a202c?style=flat-square&logo=Expressjs&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-1a202c?style=flat-square&logo=MySQL&logoColor=white" /> <img alt="VS Code" src="https://img.shields.io/badge/-Code-1073C9?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-1a202c?style=flat-square&logo=MySQL&logoColor=white" /> 
+<img alt="VS Code" src="https://img.shields.io/badge/-Code-1073C9?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-1a202c?style=flat-square&logo=Git&logoColor=white" />
+<img alt="GitHub" src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white" />
+<img alt="NPM" src="https://img.shields.io/badge/-npm-red?style=flat-square&logo=npm&logoColor=white" />
+<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-1a202c?style=flat-square&logo=Flutter&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
 
