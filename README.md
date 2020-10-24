@@ -10,6 +10,7 @@
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white" />
 <img alt="VS Code" src="https://img.shields.io/badge/-Code-1073C9?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff" />
 
 
 ## My stats 
