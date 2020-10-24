@@ -10,6 +10,7 @@
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white" />
 <img alt="Express" src="https://img.shields.io/badge/-Express-1a202c?style=flat-square&logo=Expressjs&logoColor=white" />
+<img alt="TypeORM" src="https://img.shields.io/npm/v/egg-typeorm.svg?style=flat-square" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-1a202c?style=flat-square&logo=MySQL&logoColor=white" /> 
 <img alt="VS Code" src="https://img.shields.io/badge/-Code-1073C9?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-1a202c?style=flat-square&logo=Git&logoColor=white" />
