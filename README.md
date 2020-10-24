@@ -22,6 +22,16 @@
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
 </p>
 
+## My course completion project
+
+[Know the ReachUp!](https://github.com/0G4briel/ReachUp)
+
+![ReachUp](https://user-images.githubusercontent.com/59267719/93685984-a55cb000-fa89-11ea-9dfe-4a4906088e3a.png)
+
+## My future startup
+
+[Welcome to cSoft!](https://github.com/CSoft-Inc)
+
 ## My stats 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guilhermedjr&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
