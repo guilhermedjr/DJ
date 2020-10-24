@@ -1,4 +1,4 @@
-# I'm not Alan Walker, but I'm both "DJ" and developer :monkey:
+# I'm not Alan Walker, but I'm both "DJ" and developer :octocat:
 
 ## About me
 
