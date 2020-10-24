@@ -4,6 +4,8 @@
 
 :earth_americas: Santos, SP, Brazil
 
+:armenia: :portugal: Armenian and Portuguese descent
+
 :birthday: 17yo
 
 :book: :mortar_board: Completing studies at Centro Paula Souza (Etec Aristóteles Ferreira)
