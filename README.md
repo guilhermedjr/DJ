@@ -28,8 +28,9 @@
 
 ## Contact
 
-<p>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermedjrdjrjan/)](https://www.linkedin.com/in/guilhermedjrdjrjan/)
+
+<p>
 <a target="_blank" href="mailto:guilhermedjrdjrjan@gmail.com?subject=[GitHub]">
     <img alt="Gmail badge" src="https://img.shields.io/badge/-guilhermedjrdjrjan@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
