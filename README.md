@@ -2,6 +2,14 @@
 
 ## About me
 
+:earth_americas: Santos, SP, Brazil
+
+:birthday: 17yo
+
+:book: :mortar_board: Completing studies at the Centro Paula Souza (Etec Aristóteles Ferreira)
+
+:musical_score: Ecletic musical taste: from Bastille to Yungblud, going through TØP, Arctic Monkeys, Set It Off, Pitty, Cö Shu Nie, AViVA and... Rogério Skylab?
+
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedjr&theme=blue-green)
 
 ## My hard skills 
