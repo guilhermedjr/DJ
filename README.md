@@ -6,7 +6,7 @@
 
 :birthday: 17yo
 
-:book: :mortar_board: Completing studies at the Centro Paula Souza (Etec Aristóteles Ferreira)
+:book: :mortar_board: Completing studies at Centro Paula Souza (Etec Aristóteles Ferreira)
 
 :musical_score: Ecletic musical taste: from **Bastille** to **Yungblud**, going through **TØP**, **Arctic Monkeys**, **Set It Off**, **Pitty**, **Cö Shu Nie**, **AViVA** and... **Rogério Skylab**?
 
