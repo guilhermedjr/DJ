@@ -1,4 +1,4 @@
-# I'm not Alan Walker, but I'm both "DJ" and developer
+# I'm not Alan Walker, but I'm both "DJ" and developer :monkey:
 
 ## About me
 
@@ -8,7 +8,13 @@
 
 :book: :mortar_board: Completing studies at Centro Paula Souza (Etec Aristóteles Ferreira)
 
-:musical_score: Ecletic musical taste: from **Bastille** to **Yungblud**, going through **TØP**, **Arctic Monkeys**, **Set It Off**, **Pitty**, **Cö Shu Nie**, **AViVA** and... **Rogério Skylab**?
+:jp: :mahjong: I love Japan and its culture
+
+:musical_score: :headphones: Ecletic musical taste: from **Bastille** to **Yungblud**, going through **TØP**, **Arctic Monkeys**, **Set It Off**, **Pitty**, **Cö Shu Nie**, **AViVA** and... **Rogério Skylab**?
+
+:eggplant: I like Scarlet eggplant
+
+## Most used languages
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedjr&theme=blue-green)
 
