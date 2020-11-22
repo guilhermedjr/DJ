@@ -63,7 +63,4 @@
 <a target="_blank" href="mailto:guilhermedjrdjrjan@gmail.com?subject=[GitHub]">
     <img alt="Gmail badge" src="https://img.shields.io/badge/-guilhermedjrdjrjan@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
-<a target="_blank" href="mailto:csoft.company@gmail.com?subject=[GitHub]">
-    <img alt="Gmail badge" src="https://img.shields.io/badge/-csoft.company@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" />
-  </a>
 </p>
