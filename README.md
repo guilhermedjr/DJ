@@ -4,17 +4,14 @@
 
 :earth_americas: Santos, SP, Brazil
 
-:armenia: :portugal: Armenian and Portuguese descent
-
 :birthday: 17yo
 
-:book: :mortar_board: Completing studies at Centro Paula Souza (Etec Aristóteles Ferreira)
+:mortar_board: Graduated as a in Analysis and Development of Systems, at Etec Aristóteles Ferreira (2018 - 2020)
 
-:jp: :mahjong: I love Japan and its culture
+:pencil: Currently I study at <strong>Fatec Rubens Lara</strong>, and I'm a software developmwent intern at <strong>BDS DataSolution.</strong>
 
-:musical_score: :headphones: Ecletic musical taste: from **Bastille** to **Yungblud**, going through **TØP**, **Arctic Monkeys**, **Set It Off**, **Pitty**, **Cö Shu Nie**, **AViVA** and... **Rogério Skylab**?
+:fire: My stack: .NET, ReactJS, Node.js & TypeScript
 
-:eggplant: I like Scarlet eggplant
 
 ## Most used languages
 
