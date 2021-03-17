@@ -12,11 +12,6 @@
 
 :fire: My stack: .NET, ReactJS, Node.js & TypeScript
 
-
-## Most used languages
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedjr&theme=blue-green)
-
 ## My hard skills 
 
 <p>
