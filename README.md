@@ -29,6 +29,9 @@
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white" />
 <img alt="Express" src="https://img.shields.io/badge/-Express-1a202c?style=flat-square&logo=Expressjs&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-1a202c?style=flat-square&logo=MySQL&logoColor=white" /> 
+<img alt="Swagger" src="https://img.shields.io/badge/-Swagger-47bb40?style=flat-square&logo=swagger&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+<img alt="Azure" src="https://img.shields.io/badge/-Azure-0989D6?style=flat-square&logo=microsoft%20azure&logoColor=white" />
 <img alt="VS Code" src="https://img.shields.io/badge/-Code-1073C9?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-1a202c?style=flat-square&logo=Git&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white" />
