@@ -4,11 +4,11 @@
 
 :earth_americas: Santos, SP, Brazil
 
-:birthday: 17yo
+:birthday: 18yo
 
 :mortar_board: Graduated as a in Analysis and Development of Systems, at Etec Aristóteles Ferreira (2018 - 2020)
 
-:pencil: Currently I study at <strong>Fatec Rubens Lara</strong>, and I'm a software developmwent intern at <strong>BDS DataSolution.</strong>
+:pencil: Currently I'm a software developmwent intern at <strong>BDS DataSolution.</strong>
 
 :fire: My stack: .NET, ReactJS, Node.js & TypeScript
 
@@ -38,16 +38,6 @@
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
 </p>
-
-## My course completion project
-
-[Know the ReachUp!](https://github.com/0G4briel/ReachUp)
-
-![ReachUp](https://user-images.githubusercontent.com/59267719/93685984-a55cb000-fa89-11ea-9dfe-4a4906088e3a.png)
-
-## My future startup
-
-[Welcome to cSoft!](https://github.com/CSoft-Inc)
 
 ## Contact
 
