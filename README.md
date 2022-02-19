@@ -10,7 +10,7 @@
 
 :mortar_board: Graduated as a in Analysis and Development of Systems, at Etec Aristóteles Ferreira (2018 - 2020)
 
-:pencil: Currently I'm a software developmwent intern at <strong>BDS DataSolution.</strong>
+:pencil: Currently I'm a JR .NET Developer at <strong>Proxys Group.</strong>
 
 :fire: My stack: .NET and ReactJS
 
