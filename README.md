@@ -10,7 +10,7 @@
 
 :mortar_board: Graduated as a in Analysis and Development of Systems, at Etec Aristóteles Ferreira (2018 - 2020)
 
-:pencil: Currently I'm a JR .NET Developer at <strong>Proxys Group.</strong>
+:pencil: Currently I'm a Mid Level Software Developer at <strong>KXP Consulting.</strong>
 
 :fire: My stack: .NET and ReactJS
 
