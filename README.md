@@ -10,7 +10,7 @@
 
 :mortar_board: Graduated as a in Analysis and Development of Systems, at Etec Aristóteles Ferreira (2018 - 2020)
 
-## Companies for which I carried out projects
+## Notable companies for which I carried out projects
 
 <p>
    <img src=".github/b3.png" width="64" height="64"/>
