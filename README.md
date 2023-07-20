@@ -6,7 +6,7 @@
 
 :earth_americas: Santos, SP, Brazil
 
-:birthday: 19yo
+:birthday: 20yo
 
 :mortar_board: Graduated as a in Analysis and Development of Systems, at Etec Aristóteles Ferreira (2018 - 2020)
 
